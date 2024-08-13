@@ -442,6 +442,7 @@ header .show {
   z-index: 1;
 }
 .content-section .first-screen .swiper .swiper-pagination {
+  position: absolute;
   bottom: 43px;
 }
 
